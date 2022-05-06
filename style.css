@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #Detected_objects
+{
+font-size: 18px;
+}
+
+body {
+    background-size:cover;
+    background-position: center;
+}
+
+canvas {
+    
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+    background-color: white;
+    color:rgb(41, 41, 41);
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
